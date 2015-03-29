@@ -1,0 +1,21 @@
+# =============================================================================
+# Font Custom Configuration
+#   This file should live in the directory where you run `fontcustom compile`.
+#   For more info, visit <https://github.com/FontCustom/fontcustom>.
+# =============================================================================
+
+
+# -----------------------------------------------------------------------------
+# Project Info
+# -----------------------------------------------------------------------------
+
+font_name: icons
+no_hash: true
+input:
+  vectors: vectors
+  templates: templates
+templates: [_fonts-icons.scss, _icon-font.scss]
+output:
+  fonts: fonts
+  _font-icons.scss: ../scss
+  _icon-font.scss: ../scss

@@ -1,0 +1,17 @@
+{
+  "name": "icon",
+  "version": "0.1",
+  "authors": [
+    "KhaeraB <khaera.belkadi@gmail.com>"
+  ],
+  "description": "icon",
+  "license": "MIT",
+  "homepage": "http://www.khaerabelkadi.fr",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

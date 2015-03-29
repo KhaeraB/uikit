@@ -1,0 +1,20 @@
+@import 'font-icons';
+@import 'icon-font';
+
+@mixin icon($position: before, $icon: false, $styles: true) {
+    @if $position == both {
+        $position: 'before, &:after';
+    }
+    &:#{$position} {
+        @if $icon {
+            content: "#{map-get($font-icons, $icon)}";
+        }
+        @if $styles {
+            speak: none;
+            font-style: normal;
+            font-weight: normal;
+            font-family: Icons;
+        }
+        @content;
+    }
+}

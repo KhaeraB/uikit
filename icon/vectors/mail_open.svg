@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>mail_open</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="mail_open" sketch:type="MSArtboardGroup" stroke="#E8834E">
+            <g id="mail-open" sketch:type="MSLayerGroup">
+                <path d="M8,15.244 C3.999,15.244 0.756,12.001 0.756,8 C0.756,4 3.999,0.757 8,0.757 C12,0.757 15.244,4 15.244,8 C15.244,12.001 12,15.244 8,15.244 Z" id="Stroke-1" sketch:type="MSShapeGroup"></path>
+                <path d="M4.18780484,9.25862904 L4.18780484,7.10961547 C4.18780484,6.6594578 4.88432966,5.94108041 4.88432966,5.94108041 C4.88432966,5.94108041 6.96407364,3.81420907 7.99999983,3.81420907 C9.03592603,3.81420907 11.1052583,6.07029721 11.1052583,6.07029721 C11.1052583,6.07029721 11.8121952,6.6594578 11.8121952,7.10961547 L11.8121952,9.25862904 M4.18780484,8.59513578 L4.18780484,10.7441493 C4.18780484,11.1952856 4.52269622,11.5593262 4.93569899,11.5593262 L11.064301,11.5593262 C11.4773038,11.5593262 11.8121952,11.1952856 11.8121952,10.7441493 L11.8121952,8.59513578" id="Stroke-4" sketch:type="MSShapeGroup"></path>
+                <path d="M4.18780484,5.9 L7.99999984,5.9 L11.8121952,5.9" id="Stroke-2" stroke-width="0.25" stroke-linecap="round" sketch:type="MSShapeGroup" transform="translate(8.000000, 6.468065) scale(1, -1) translate(-8.000000, -6.468065) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

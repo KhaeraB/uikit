@@ -1,0 +1,88 @@
+{
+  "checksum": {
+    "previous": "4de4ef9b18e401a7a8e04b9a60dfad0df541bf3e3d6bfec132a47bdc4fe01d64",
+    "current": "4de4ef9b18e401a7a8e04b9a60dfad0df541bf3e3d6bfec132a47bdc4fe01d64"
+  },
+  "fonts": [
+    "fonts/icons.ttf",
+    "fonts/icons.svg",
+    "fonts/icons.woff",
+    "fonts/icons.eot"
+  ],
+  "glyphs": {
+    "category": {
+      "codepoint": 61696,
+      "source": "vectors/category.svg"
+    },
+    "information": {
+      "codepoint": 61697,
+      "source": "vectors/information.svg"
+    },
+    "mail_lock": {
+      "codepoint": 61698,
+      "source": "vectors/mail_lock.svg"
+    },
+    "mail_open": {
+      "codepoint": 61699,
+      "source": "vectors/mail_open.svg"
+    },
+    "map": {
+      "codepoint": 61700,
+      "source": "vectors/map.svg"
+    },
+    "menu": {
+      "codepoint": 61701,
+      "source": "vectors/menu.svg"
+    },
+    "passeword_unlock": {
+      "codepoint": 61702,
+      "source": "vectors/passeword_unlock.svg"
+    },
+    "password_lock": {
+      "codepoint": 61703,
+      "source": "vectors/password_lock.svg"
+    },
+    "user_female": {
+      "codepoint": 61704,
+      "source": "vectors/user_female.svg"
+    },
+    "user_male": {
+      "codepoint": 61705,
+      "source": "vectors/user_male.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": "fontcustom.yml",
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "icons",
+    "force": false,
+    "input": {
+      "templates": "templates",
+      "vectors": "vectors"
+    },
+    "no_hash": true,
+    "output": {
+      "_font-icons.scss": "../scss",
+      "_icon-font.scss": "../scss",
+      "css": "fonts",
+      "fonts": "fonts",
+      "preview": "fonts"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "_fonts-icons.scss",
+      "_icon-font.scss"
+    ]
+  },
+  "templates": [
+    "fonts/_fonts-icons.scss",
+    "../scss/_icon-font.scss"
+  ]
+}
