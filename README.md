@@ -16,13 +16,13 @@
 
 UI kit avec comme icons: 
 
-categoty.svg
-information.svg
-mail_close.svg
-mail_open.svg
-map.svg
-menu.svg
-passeword_lock.svg
-passeword_open.svg
-user_male.svg
-user_female.svg
+categoty.svg/ 
+information.svg/ 
+mail_close.svg/ 
+mail_open.svg/ 
+map.svg/ 
+menu.svg/ 
+passeword_lock.svg/ 
+passeword_open.svg/ 
+user_male.svg/ 
+user_female.svg/
